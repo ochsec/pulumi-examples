@@ -1,0 +1,6 @@
+name: serverless-crud
+runtime:
+  name: python
+  options:
+    virtualenv: venv
+description: An API for a Todo list backed by an Aurora serverless database
